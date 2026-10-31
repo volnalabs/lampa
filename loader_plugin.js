@@ -6,6 +6,7 @@
 
     // ===== Список плагинов =====
     var PLUGINS = [
+        { name: 'Синхронизация',  url: 'https://cdn.jsdelivr.net/gh/volnalabs/lampa@main/set.js' },
         { name: 'Редирект lampa.run',  url: 'https://cdn.jsdelivr.net/gh/volnalabs/lampa@main/redirect_domen.js' },
         { name: 'ЛГБТ+',   url: 'https://cdn.jsdelivr.net/gh/volnalabs/lampa@main/see_lgbt.js' },
         { name: 'IPTV',     url: 'https://cdn.jsdelivr.net/gh/volnalabs/lampa@main/iptv.js' },
