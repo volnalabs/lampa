@@ -5,7 +5,7 @@
   window.lampa_z01_unified_v1 = true;
 
   var VERSION = '1.1.1';
-  var HOST = 'http://prem.z01.online/';
+  var HOST = 'http://rf.z01.online/';
 
   // Вспомогательная функция из вашего старого кода для безопасного выполнения
   function safe(fn) {
