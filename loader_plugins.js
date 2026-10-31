@@ -6,7 +6,6 @@
 
     // ===== Список плагинов =====
     var PLUGINS = [
-        { name: 'Обход подписки',    url: 'https://cdn.jsdelivr.net/gh/volnalabs/lampa@main/free_podpiska.js' },
         { name: 'Редирект lampa.run',  url: 'https://cdn.jsdelivr.net/gh/volnalabs/lampa@main/redirect_domen.js' },
         { name: 'ЛГБТ+',   url: 'https://cdn.jsdelivr.net/gh/volnalabs/lampa@main/see_lgbt.js' },
         { name: 'IPTV',     url: 'https://cdn.jsdelivr.net/gh/volnalabs/lampa@main/iptv.js' },
